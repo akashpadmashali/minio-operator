@@ -3,12 +3,12 @@ entries:
   minio-operator:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2026-04-21T12:16:35.850399091+05:30"
+    created: "2026-04-21T12:44:27.001401093+05:30"
     description: A Helm chart for Kubernetes
-    digest: 88e4f75629a7b821d81bf42c7a3af4edbc9a13a3802c4c0fca9765e05e41f2c9
+    digest: 59e675a93821beb29e330ec470879754b501fd648b34b4738a1b0a0d19948d4d
     name: minio-operator
     type: application
     urls:
-    - https://akashpadmashali.github.io/minio-operator/minio-operator-1.1.1.tgz
-    version: 1.1.1
-generated: "2026-04-21T12:16:35.849949451+05:30"
+    - https://akashpadmashali.github.io/minio-operator/minio-operator-1.1.2.tgz
+    version: 1.1.2
+generated: "2026-04-21T12:44:27.000815146+05:30"
